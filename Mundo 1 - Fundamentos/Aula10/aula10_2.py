@@ -1,3 +1,5 @@
+"""Exemplos aula 10."""
+
 nome = str(input('Qual o seu nome? ')).strip()
 if nome.upper() == 'GUSTAVO':
     print('Seu nome é muito lindo.')

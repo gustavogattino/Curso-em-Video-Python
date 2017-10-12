@@ -1,3 +1,5 @@
+"""Aula 10 - Desafio 08."""
+
 l1 = float(input('Digite o tamanho da primeira reta: '))
 l2 = float(input('Digite o tamanho da segunda reta : '))
 l3 = float(input('Digite o tamanho da terceira reta: '))

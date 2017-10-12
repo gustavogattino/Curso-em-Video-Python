@@ -1,3 +1,5 @@
+"""Aula 10 - Desafio 03."""
+
 n = int(input('Digite um número: '))
 if n == 0:
     print('Zero não é par nem ímpar! Ou é?')

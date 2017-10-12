@@ -1,2 +1,5 @@
+"""Aula 07 - Desafio 09."""
+
 salario = float(input('Qual o salário atual do funcionário? R$'))
-print('O salário do funcionário com reajuste de 15% é de R%{}.'.format(salario * 1.15))
+print('O salário do funcionário com reajuste de 15% é de R%{}.'
+      .format(salario * 1.15))

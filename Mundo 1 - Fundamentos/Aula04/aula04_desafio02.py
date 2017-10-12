@@ -1,4 +1,5 @@
-print('===== DESAFIO 02 =====')
+"""Aula 04 - Desafio 02."""
+
 dia = input('Dia = ')
 mes = input('Mes = ')
 ano = input('Ano = ')

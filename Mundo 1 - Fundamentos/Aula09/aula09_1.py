@@ -1,3 +1,5 @@
+"""Exemplos aula 09."""
+
 frase = '  Curso em Vídeo Python  '
 print(frase)
 print(frase[3])

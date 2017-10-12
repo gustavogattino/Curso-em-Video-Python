@@ -1,6 +1,10 @@
-'''
-Exercício Python 033: Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
-'''
+"""
+Exercício Python 033.
+
+Faça um programa que leia três números e mostre qual é o maior e qual é o
+menor.
+"""
+
 n1 = int(input('Primeiro valor: '))
 n2 = int(input('Segundo valor : '))
 n3 = int(input('Terceiro valor: '))
@@ -16,4 +20,5 @@ if n1 > n2 and n1 > n3:
 if n2 > n1 and n2 > n3:
     maior = n2
 
-print('Entre os números digitados, o menor é o {} e o maior é o {}.'.format(menor, maior))
+print('Entre os números digitados, o menor é o {} e o maior é o {}.'
+      .format(menor, maior))

@@ -1,3 +1,5 @@
+"""Exemplos aula 07."""
+
 print('/'*20)
 print('{:/^20}'.format('AULA 07'))
 print('/'*20)

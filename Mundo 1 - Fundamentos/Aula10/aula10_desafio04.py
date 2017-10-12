@@ -1,3 +1,5 @@
+"""Aula 10 - Desafio 04."""
+
 dis = float(input('Qual a distância da sua viagem em Kms? '))
 if dis <= 200:
     print('Para viagens de até 200km, o preço da passagem é R$0,50 por Km.')

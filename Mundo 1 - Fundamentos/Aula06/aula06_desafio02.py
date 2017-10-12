@@ -1,3 +1,5 @@
+"""Aula 06 - Desafio 02."""
+
 algo = input('Digite alguma coisa: ')
 print('{} é numero? {}'.format(algo, algo.isnumeric()))
 print('{} é letra? {}'.format(algo, algo.isalpha()))

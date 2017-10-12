@@ -1,3 +1,5 @@
+"""Aula 10 - Desafio 07."""
+
 salario = float(input('Qual o salário do funcionário? '))
 if salario <= 1250:
     print('O novo salário do funcionário é R${:.2f}.'.format(salario * 1.15))

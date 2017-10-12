@@ -1,3 +1,5 @@
+"""Aula 07 - Desafio 06."""
+
 print('/' * 30)
 print('{:/^30}'.format('CONVERSOR DE BRL USD'))
 print('/' * 30, '\n')

@@ -1,4 +1,5 @@
 """Aula 12 - Desafio 06."""
+
 from datetime import date
 nasc = int(input('Qual o ano em que você nasceu (aaaa)? '))
 idade = date.today().year - nasc

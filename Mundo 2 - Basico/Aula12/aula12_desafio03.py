@@ -1,4 +1,5 @@
 """Aula 12 - Desafio 03."""
+
 n1 = int(input('Digite um valor: '))
 n2 = int(input('Digite outro valor: '))
 

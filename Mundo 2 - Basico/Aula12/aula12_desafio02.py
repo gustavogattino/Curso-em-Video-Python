@@ -1,4 +1,5 @@
 """Aula 12 - Desafio 02."""
+
 valor = int(input('Digite um número inteiro para conversão: '))
 opcao = int(input('Qual a base de conversão?\n'
                   '1 - Binário '

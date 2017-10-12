@@ -1,4 +1,5 @@
 """Aula 12 - Desafio 07."""
+
 l1 = float(input('Lado 1: '))
 l2 = float(input('Lado 2: '))
 l3 = float(input('Lado 3: '))

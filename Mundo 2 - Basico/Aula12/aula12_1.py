@@ -1,4 +1,4 @@
-"""Exenplos aula 12."""
+"""Exemplos aula 12."""
 
 nome = str(input('Qual o seu nome? '))
 if nome == 'Gustavo':
